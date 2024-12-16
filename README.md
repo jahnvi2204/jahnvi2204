@@ -24,7 +24,8 @@
 
 ## 🛠️ Skills & Tools  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)   ![Python](https://img.shields.io/badge/-Python-05122A? style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)       
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 
 
