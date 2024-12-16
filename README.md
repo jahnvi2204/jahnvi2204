@@ -15,17 +15,17 @@
 ---
 
 ## 📊 GitHub Stats  
-
+<!--
 ![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnvisaxena&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisaxena&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisaxena&layout=compact&theme=radical)  !-->
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)       
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)!-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)       
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 
 
