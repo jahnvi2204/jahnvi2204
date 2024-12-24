@@ -16,8 +16,6 @@
 ## 📊 GitHub Stats  
 ![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnvi2204&show_icons=true&theme=radical)  
 
-![Streak Stats](https://streak-stats.demolab.com/?user=jahnvi2204&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvi2204&layout=compact&theme=radical)
 
 
