@@ -13,14 +13,12 @@
 - 📫 How to reach me: **saxenajahnvi7@gmail.com**  
 
 ---
-
 ## 📊 GitHub Stats  
-<!--
-![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnvisaxena&show_icons=true&theme=radical)  
+![Jahnvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnvi2204&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvisaxena&layout=compact&theme=radical)  !-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvi2204&layout=compact&theme=radical)
 
----
+
 
 ## 🛠️ Skills & Tools  
 
