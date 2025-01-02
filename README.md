@@ -25,7 +25,8 @@
 
 ## 🛠️ Skills & Tools  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)    [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)](https://spring.io/projects/spring-boot)
+
 
 
 
